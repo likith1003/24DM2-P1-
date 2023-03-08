@@ -28,3 +28,6 @@ urlpatterns = [
     path('verbal',views.verbal,name='verbal'),
     path('feedback',views.feedback,name='feedback'),
 ]
+
+
+
